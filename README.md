@@ -17,14 +17,19 @@ I enjoy solving problems, analyzing data, and transforming insights into meaning
 
 ## 🛠️ Tech Stack  
 
-**Languages & Frameworks**  
+<div align="center">
+
+### 🔹 Languages & Frameworks  
 [![My Skills](https://skillicons.dev/icons?i=python,java,php,react,js,bootstrap)](https://skillicons.dev)  
 
-**Data Science & ML**  
+### 🔹 Data Science & ML  
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)  
 
-**Tools & Cloud**  
+### 🔹 Tools & Cloud  
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,vscode)](https://skillicons.dev)  
+
+</div>
+
 
 ---
 
